@@ -13,9 +13,9 @@ PANDUAN INSTALASI PROJECT
 Selesai.
 
 
-###############################################################
 
-LOGIN ADMIN
+
+UNTUK LOGIN ADMIN
 
 username : admin
 password : 123
